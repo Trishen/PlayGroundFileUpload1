@@ -358,8 +358,8 @@
     <Content Include="Views\assessments\Details.cshtml" />
     <Content Include="Views\assessments\Edit.cshtml" />
     <Content Include="Views\assessments\Index.cshtml" />
-    <Content Include="Views\FileUploadV\FileUploadProcess.cshtml" />
-    <Content Include="Views\FileUploadV\Index.cshtml" />
+    <Content Include="Views\FileUpload\FileUploadProcess.cshtml" />
+    <Content Include="Views\FileUpload\Index.cshtml" />
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />
     <Content Include="Scripts\umd\popper.js.flow" />
